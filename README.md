@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 
 ## Running the code
-- To run the project, execute the `main.py` script:
+- To run the project, execute the following command (make sure you are in the project directory):
 
 ```sh
 streamlit run app.py
